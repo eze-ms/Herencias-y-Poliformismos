@@ -1,0 +1,32 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+*.class
+*.log
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Incluye carpetas src (código fuente)
+!src/
